@@ -16,12 +16,12 @@ function Skills() {
                                                 
                                                 </div>
                                             <div className=" mx-auto my-4 col-start-1 row-start-2 ">
-                                            <h1 className=" text-2xl font-bold tracking-wider text-aqua underline font-sans " >Front end skills </h1>
+                                            <h1 className=" text-lg sm:text-xl font-bold tracking-wider text-aqua underline font-sans " >Front end skills </h1>
                                                 </div>
-                                            <div className=" mx-auto my-4 col-start-1 row-start-3"><h2 className="text-white text-2xl tracking-wider font-sans">Javascript</h2></div>
-                                            <div  className="mx-auto my-4 col-start-1 row-start-4"><h2 className="text-white text-2xl tracking-wider font-sans ">HTML/CSS</h2></div>
-                                            <div  className="mx-auto my-4 col-start-1 row-start-5"><h2 className="text-white text-2xl tracking-wider font-sans">Jade/Pug</h2></div>
-                                            <div  className="mx-auto my-4 col-start-1 row-start-6"><h2 className="text-white text-2xl  tracking-wider font-sans">Tailwind/Bootstrap</h2></div>
+                                            <div className=" mx-auto my-4 col-start-1 row-start-3"><h2 className="text-white text-lg sm:text-xl tracking-wider font-sans">Javascript</h2></div>
+                                            <div  className="mx-auto my-4 col-start-1 row-start-4"><h2 className="text-white text-lg sm:text-xl tracking-wider font-sans ">HTML/CSS</h2></div>
+                                            <div  className="mx-auto my-4 col-start-1 row-start-5"><h2 className="text-white text-lg sm:text-xl tracking-wider font-sans">Jade/Pug</h2></div>
+                                            <div  className="mx-auto my-4 col-start-1 row-start-6"><h2 className="text-white text-lg sm:text-xl  tracking-wider font-sans">Tailwind/Bootstrap</h2></div>
                                             </div>
                                         
                                         
@@ -32,12 +32,12 @@ function Skills() {
                                             
     
                                             <div className=" mx-auto my-4 col-start-1 row-start-2">
-                                            <h1 className=" text-2xl font-bold tracking-wider text-aqua underline font-sans" >Back end skills </h1>
+                                            <h1 className="text-lg sm:text-xl font-bold tracking-wider text-aqua underline font-sans" >Back end skills </h1>
                                                 </div>
-                                            <div className=" mx-auto my-4 col-start-1 row-start-3 "><h2 className="text-white text-2xl font-sans tracking-wider">Node.js</h2></div>
-                                            <div  className="mx-auto my-4  col-start-1 row-start-4"><h2 className="text-white text-2xl font-sans tracking-wider">Express</h2></div>
-                                            <div  className="mx-auto my-4  col-start-1 row-start-5"><h2 className="text-white text-2xl font-sans tracking-wider">MongoDB</h2></div>
-                                            <div  className="mx-auto my-4  col-start-1 row-start-6"><h2 className="text-white text-2xl font-sans tracking-wider">Json</h2></div>
+                                            <div className=" mx-auto my-4 col-start-1 row-start-3 "><h2 className="text-white text-lg sm:text-xl font-sans tracking-wider">Node.js</h2></div>
+                                            <div  className="mx-auto my-4  col-start-1 row-start-4"><h2 className="text-white text-lg sm:text-xl font-sans tracking-wider">Express</h2></div>
+                                            <div  className="mx-auto my-4  col-start-1 row-start-5"><h2 className="text-white text-lg sm:text-xl font-sans tracking-wider">MongoDB</h2></div>
+                                            <div  className="mx-auto my-4  col-start-1 row-start-6"><h2 className="text-white text-lg sm:text-xl font-sans tracking-wider">Json</h2></div>
                                             
                                             </div>
                                         
