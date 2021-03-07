@@ -13,10 +13,10 @@ function Contact() {
                                 </div>
                                 <div className=" bg-white rounded-lg  xl:mx-56  mt-2 flex items-end py-4 px-2 justify-center "> 
                                
-                                        <a href="https://www.facebook.com/olly.mah.71" target="_blank" rel="noopener noreferrer" ><img className="w-20 md:w-40 mr-8 ml-4  " src="f_logo_RGB-Blue_114.png" alt="f_logo"/></a>
-                                        <a href="https://twitter.com/OliverGervais" target="_blank" rel="noopener noreferrer" ><img className="w-20 md:w-40 mx-8 " src="Twitter social icons - rounded square - blue.png" alt="f_logo"/></a>
-                                        <a href="https://www.linkedin.com/in/oliver-gervais-129674208/" target="_blank" rel="noopener noreferrer" ><img className="w-20 md:w-40 mx-8  " src="LI-In-Bug.png" alt="f_logo"/></a>
-                                        <a href="https://github.com/OliverGervais" target="_blank" rel="noopener noreferrer" ><img className="w-20 md:w-40  ml-8 mr-4" src="GitHub-Mark-120px-plus.png" alt="f_logo"/></a>
+                                        <a href="https://www.facebook.com/olly.mah.71" target="_blank" rel="noopener noreferrer" ><img className="w-10 sm:w-20  mx-2  " src="f_logo_RGB-Blue_114.png" alt="f_logo"/></a>
+                                        <a href="https://twitter.com/OliverGervais" target="_blank" rel="noopener noreferrer" ><img className="w-10 sm:w-20  mx-2 " src="Twitter social icons - rounded square - blue.png" alt="f_logo"/></a>
+                                        <a href="https://www.linkedin.com/in/oliver-gervais-129674208/" target="_blank" rel="noopener noreferrer" ><img className="w-10 sm:w-20 mx-2  " src="LI-In-Bug.png" alt="f_logo"/></a>
+                                        <a href="https://github.com/OliverGervais" target="_blank" rel="noopener noreferrer" ><img className="w-10 sm:w-20 mx-2  " src="GitHub-Mark-120px-plus.png" alt="f_logo"/></a>
                                         
                                 </div>
             
