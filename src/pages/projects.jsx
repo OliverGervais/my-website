@@ -4,6 +4,7 @@ import PWork from "../components/PWork"
 const Projects = () => {
     return (
         <>
+       
            <div className=" shadow-2xl bg-black w-sreen">
                 <Nav />
                 

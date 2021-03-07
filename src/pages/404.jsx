@@ -4,6 +4,7 @@ import Lost from "../components/Lost"
 const NotFound = () => {
     return (
         <>
+       
             <div className="shadow-2xl bg-black w-sreen">
                 <Nav/>
                 </div>

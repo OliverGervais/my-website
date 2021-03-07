@@ -5,9 +5,9 @@ function Contact() {
         <>
         <div className=" bg-black rounded-lg xl:mx-56 mt-2 grid grid-flow-col grid-cols-1  gap-2 bg-opacity-90"> 
                                     <ul className=" flex flex-col text-white">
-                                        <li className=" mb-8 text-5xl mx-auto font-sans italic text-aqua underline "><p>Contact Me Here</p></li>
-                                        <li className="text-3xl mx-auto font-sans"> <p>Phone: (631) 309-1607</p></li>
-                                        <li className="text-3xl mx-auto font-sans"><p>Email: oliverg.codes@gmail.com</p></li>
+                                        <li className=" mb-8 text-3xl sm:text-5xl mx-auto font-sans italic text-aqua underline "><p>Contact Me Here</p></li>
+                                        <li className="text-xl sm:text-3xl mx-auto font-sans"> <p>Phone: (631) 309-1607</p></li>
+                                        <li className="text-xl sm:text-3xl mx-auto font-sans"><p>Email: oliverg.codes@gmail.com</p></li>
                                         
                                     </ul>
                                 </div>

@@ -11,6 +11,7 @@ export default class MainPage extends Component {
     render() {
         return (
             <>
+            
             <div className="shadow-2xl bg-black w-sreen">
                 <Nav/>
                 </div>
