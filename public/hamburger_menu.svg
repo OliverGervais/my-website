@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="hamburger_menu.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="0.75722503"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     style="fill:#ffffff">
+    <rect
+       style="fill:#ffffff;stroke-width:0.365001;paint-order:stroke fill markers"
+       id="rect10-3"
+       width="172.12158"
+       height="27.261492"
+       x="16.03616"
+       y="65.213768"
+       ry="9.6217031" />
+    <rect
+       style="fill:#00ffff;stroke-width:0.365001;paint-order:stroke fill markers"
+       id="rect10-3-59"
+       width="172.12158"
+       height="27.261492"
+       x="16.036158"
+       y="119.73675"
+       ry="9.6217031" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.365001;paint-order:stroke fill markers"
+       id="rect10-3-4"
+       width="172.12158"
+       height="27.261492"
+       x="16.036165"
+       y="174.25974"
+       ry="9.6217031" />
+  </g>
+</svg>
