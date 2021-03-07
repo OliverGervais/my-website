@@ -18,9 +18,7 @@ const ContactMe = () => {
                     }} >
                         <Contact/>
 
-                        <div className=" col-start-1 justify-center ">
-                                <AddTask/>
-                                </div>
+                        
             </div>
             </>
         )

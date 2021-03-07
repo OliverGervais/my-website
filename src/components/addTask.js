@@ -39,7 +39,7 @@ export default class AddTask extends Component {
           reminder:this.state.reminder
         };
         axios({
-          url: "/api/save",
+          url: "http://localhost:5000//api/save",
           method: "POST",
           data: payload
         })

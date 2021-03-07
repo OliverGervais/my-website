@@ -8,8 +8,9 @@ function Contact() {
                                         <li className=" mb-8 text-5xl mx-auto"><p>Contact Me Here</p></li>
                                         <li className="text-3xl mx-auto"> <p>Phone: (631) 309-1607</p></li>
                                         <li className="text-3xl mx-auto"><p>Email: 6lumah@gmail.com</p></li>
-                                        <li className="italic underline text-aqua mt-6 text-xl mx-auto"><p>Don't have the time to call me at the moment no problem  </p></li>
-                                        <li className="italic underline text-aqua text-xl mx-auto"><p> Simply fill the form and I will call you at the date and time that is appropriate for you. </p></li>
+                                        <li className="text-3xl mx-auto"><a href="https://www.facebook.com/olly.mah.71" target="_blank" rel="noopener noreferrer" ><p>facebook</p></a></li>
+                                        <li className="text-3xl mx-auto"><a href="https://twitter.com/OliverGervais" target="_blank" rel="noopener noreferrer" ><p>twitter</p></a></li>
+                                        <li className="text-3xl mx-auto"><a href="https://www.linkedin.com/in/oliver-gervais-129674208/" target="_blank" rel="noopener noreferrer" ><p>linkedin</p></a></li>
                                     </ul>
                                 </div>
             
