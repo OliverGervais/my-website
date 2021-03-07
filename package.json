@@ -51,7 +51,7 @@
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.2"
   },
-  "proxy": "http://localhost:5000",
+  "proxy": "https://my-website-oliver1258498621654.herokuapp.com",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "postcss.config.js",
   "author": "",
