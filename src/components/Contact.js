@@ -11,6 +11,7 @@ function Contact() {
                                         <li className="text-3xl mx-auto"><a href="https://www.facebook.com/olly.mah.71" target="_blank" rel="noopener noreferrer" ><p>facebook</p></a></li>
                                         <li className="text-3xl mx-auto"><a href="https://twitter.com/OliverGervais" target="_blank" rel="noopener noreferrer" ><p>twitter</p></a></li>
                                         <li className="text-3xl mx-auto"><a href="https://www.linkedin.com/in/oliver-gervais-129674208/" target="_blank" rel="noopener noreferrer" ><p>linkedin</p></a></li>
+                                        <li className="text-3xl mx-auto"><a href="https://github.com/OliverGervais" target="_blank" rel="noopener noreferrer" ><p>github</p></a></li>
                                     </ul>
                                 </div>
             
