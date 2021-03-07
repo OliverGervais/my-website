@@ -37,9 +37,9 @@ export default class Nav extends Component {
                     <div className="lg:flex lg:items-center lg:w-auto" >
                     <nav>
                         <ul className=" hidden lg:flex items-center justify-between text-base text-white hover:text-aqua pt-4 lg:pt-0" >
-                            <li> <Link to="/" className="lg:py-4         lg:px-24  xl:px-36 2xl:px-44 3xl:px-56  py-3 px-0 block border-b-2 border-aqua hover:border-white text-white hover:text-aqua">Home</Link> </li>
-                            <li><Link to="/ContactMe" className="lg:py-4 lg:px-24  xl:px-36 2xl:px-44 3xl:px-56 py-3 px-0 block border-b-2 border-aqua hover:border-white text-white hover:text-aqua">ContactMe</Link></li>
-                            <li><Link to="/Projects" className="lg:py-4  lg:px-24  xl:px-36 2xl:px-44 3xl:px-56 py-3 px-0 block border-b-2 border-aqua hover:border-white text-white hover:text-aqua">Projects</Link></li>
+                            <li> <Link to="/" className="lg:py-4         lg:px-24  xl:px-36 2xl:px-44 3xl:px-56  py-3 px-0 block border-b-2 border-aqua hover:border-white text-white hover:text-aqua font-sans">Home</Link> </li>
+                            <li><Link to="/ContactMe" className="lg:py-4 lg:px-24  xl:px-36 2xl:px-44 3xl:px-56 py-3 px-0 block border-b-2 border-aqua hover:border-white text-white hover:text-aqua font-sans">ContactMe</Link></li>
+                            <li><Link to="/Projects" className="lg:py-4  lg:px-24  xl:px-36 2xl:px-44 3xl:px-56 py-3 px-0 block border-b-2 border-aqua hover:border-white text-white hover:text-aqua font-sans">Projects</Link></li>
                         </ul>
                     </nav>
                     </div>

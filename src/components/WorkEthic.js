@@ -13,11 +13,11 @@ function WorkEthic() {
                         <div  className="mx-auto col-start-1 row-start-5  sm:col-start-5  sm:row-start-1"><img className="w-20 md:w-32" src="Excellence_icon.svg" alt="Excellence icon"/></div>
 
 
-                        <div className=" sm:mx-auto my-12 sm:my-0 col-start-2 row-start-1  sm:col-start-1 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider">Hard Working</h2></div>
-                        <div  className="sm:mx-auto my-12 sm:my-0  col-start-2 row-start-2 sm:col-start-2 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider">Fast learner</h2></div>
-                        <div  className="sm:mx-auto my-12 sm:my-0  col-start-2 row-start-3  sm:col-start-3 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider">Problem Solver</h2></div>
-                        <div  className="sm:mx-auto my-12 sm:my-0 col-start-2 row-start-4 sm:col-start-4 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider ">Passionate</h2></div>
-                        <div  className="sm:mx-auto my-12 sm:my-0 col-start-2 row-start-5 sm:col-start-5 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider">Striving For Excellence</h2></div>
+                        <div className=" sm:mx-auto my-12 sm:my-0 col-start-2 row-start-1  sm:col-start-1 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider font-sans">Hard Working</h2></div>
+                        <div  className="sm:mx-auto my-12 sm:my-0  col-start-2 row-start-2 sm:col-start-2 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider font-sans">Fast learner</h2></div>
+                        <div  className="sm:mx-auto my-12 sm:my-0  col-start-2 row-start-3  sm:col-start-3 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider font-sans">Problem Solver</h2></div>
+                        <div  className="sm:mx-auto my-12 sm:my-0 col-start-2 row-start-4 sm:col-start-4 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider font-sans">Passionate</h2></div>
+                        <div  className="sm:mx-auto my-12 sm:my-0 col-start-2 row-start-5 sm:col-start-5 sm:row-start-2"><h2 className="text-white text-2xl tracking-wider font-sans">Striving For Excellence</h2></div>
 
                                     
                                     </div>
