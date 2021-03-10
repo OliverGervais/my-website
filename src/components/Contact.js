@@ -1,8 +1,11 @@
 import React from 'react'
+import {useSpring, animated} from 'react-spring'
 
 function Contact() {
+    const props = useSpring({opacity: 1,marginTop: 0, from: {opacity: 0, marginTop: -600 } ,delay:0 ,config:{duration: 1000} })
     return (
         <>
+        <animated.div style={props}>
         <div className=" bg-black rounded-lg xl:mx-56 mt-2 grid grid-flow-col grid-cols-1  gap-2 bg-opacity-90"> 
                                     <ul className=" flex flex-col text-white">
                                         <li className=" mb-8 text-3xl sm:text-5xl mx-auto font-sans italic text-aqua underline "><p>Contact Me Here</p></li>
@@ -19,6 +22,7 @@ function Contact() {
                                         <a href="https://github.com/OliverGervais" target="_blank" rel="noopener noreferrer" ><img className="w-10 sm:w-20 mx-2 lg:mx-6 " src="GitHub-Mark-120px-plus.png" alt="f_logo"/></a>
                                         
                                 </div>
+                                </animated.div>
             
         </>
     )

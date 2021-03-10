@@ -1,19 +1,36 @@
 import Nav from "../components/nav"
 
-import React, { Component } from 'react'
+
 import Profile from '../components/Profile'
 import WorkEthic from '../components/WorkEthic'
 import Skills from '../components/Skills'
+import React from 'react'
+import {useSpring, animated} from 'react-spring'
 
-export default class MainPage extends Component {
 
+
+
+
+
+
+function MainPage() {
+    const props1 = useSpring({opacity: 1, marginRight: 0, from: {opacity: 0, marginRight: -500 } ,delay:1250 ,config:{duration: 1000} })
+
+    
   
-    render() {
-        return (
-            <>
-            
+
+
+    return (
+        <>
+        
+       
+
+
+      
             <div className="shadow-2xl bg-black w-sreen">
+            <animated.div style={props1}>
                 <Nav/>
+                </animated.div>
                 </div>
 
                 <div className="h-screen bg-white "
@@ -23,7 +40,13 @@ export default class MainPage extends Component {
                     backgroundPosition: 'center',
                     
                     }} >
+
+                         
+
                         <Profile/>
+
+                        
+                        
                         <WorkEthic/>
                         <Skills/>
 
@@ -34,7 +57,8 @@ export default class MainPage extends Component {
                         
                                     
                                 </div>
+                                
             </>
-        )
-    }
-}
+    )
+};
+export default MainPage;

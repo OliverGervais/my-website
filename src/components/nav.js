@@ -26,7 +26,7 @@ export default class Nav extends Component {
             <header className="px-6 lg:px-16  flex flex-wrap item-center py-2 lg:py-0 ">
                 <div className="flex-1 flex justify-between items-center">
                     <Link to="/">
-                    <img className=" w-32" src="techLogo.svg" alt="Tech Logo"/>
+                    <img className="animate-pulse w-32" src="techLogo.svg" alt="Tech Logo"/>
                     </Link>
                 </div>
 
