@@ -11,7 +11,7 @@ function PWork() {
          <div className="mx-auto col-start-1 row-start-1 bg-black rounded-lg lg:px-16 xl:px-24 py-4 px-4 grid grid-flow-col grid-cols-1  ">
              <a target="_blank" rel="noopener noreferrer" href="https://agitated-benz-13e173.netlify.app/" >
                                             <div  className="mx-auto col-start-1  row-start-1 ">
-                                                <h1 className="mb-2 underline text-2xl font-sans font-bold tracking-wider text-aqua">Keto Recipe Social Media App</h1>
+                                                <h1 className="mb-2 underline text-2xl font-sans font-bold tracking-wider text-aqua">Keto Recipe Social Media Web App</h1>
                                                 <img className="w-94 rounded cursor-pointer" src="kecipe pic.jpg" alt="manager"/>
                                                 <h1 className="text-white text-lg font-sans italic hover:text-aqua">Made Using:</h1>
                                                 <h1 className="text-white text-l font-sans hover:text-aqua">Back end: Node.js, Express and MongoDb</h1>
