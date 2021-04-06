@@ -31,7 +31,7 @@ function PWork() {
                                             <a target="_blank" rel="noopener noreferrer" href="https://restaurantmen.herokuapp.com/">
                                             <div  className="mx-auto col-start-1  row-start-1">
                                             <h1 className="mb-2 underline text-2xl font-bold tracking-wider text-aqua">Task Manager Website</h1>
-                                                <img className="w-94 rounded cursor-pointer" src="resto pic.jpg" alt="resto"/>
+                                                <img className="w-94 rounded cursor-pointer" src="task pic.jpg" alt="task"/>
                                                 <h1 className="text-white text-lg italic hover:text-aqua">Made Using:</h1>
                                                 <h1 className="text-white text-lg hover:text-aqua">Back end: Node.js, Express and MongoDb</h1>
                                                 <h1 className="text-white text-lg hover:text-aqua">Front end: JavaScript, React, HTML and Tailwindcss</h1>
