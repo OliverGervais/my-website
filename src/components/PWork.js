@@ -56,6 +56,19 @@ function PWork() {
                                             
                                             
                                             </div>
+        <div className=" mt-2 sm:mt-0 mx-auto col-start-1 lg:col-start-2 row-start-3 lg:row-start-2 bg-black rounded-lg px-4 lg:px-16 xl:px-24 py-4  grid grid-flow-col grid-cols-1  hover:text-aqua  ">
+                                            <a target="_blank" rel="noopener noreferrer" href="https://sleepy-noether-e2d403.netlify.app/">
+                                            <div  className="mx-auto col-start-1  row-start-1">
+                                            <h1 className="mb-2 underline text-2xl font-bold tracking-wider text-aqua">COVID-19 Tacking</h1>
+                                                <img className="w-94 rounded cursor-pointer" src="COVID.jpg" alt="COVID"/>
+                                                <h1 className="text-white text-lg italic hover:text-aqua">Made Using:</h1>
+                                                <h1 className="text-white text-lg hover:text-aqua">Front end: JavaScript, React, HTML and Tailwindcss</h1>
+                                                
+                                                </div>
+                                                </a>
+                                            
+                                            
+                                            </div>
             
         </>
     )
