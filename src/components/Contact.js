@@ -8,7 +8,7 @@ function Contact() {
         <animated.div style={props}>
         <div className=" bg-black rounded-lg xl:mx-56 mt-2  bg-opacity-90"> 
                                     <ul className=" flex flex-col text-white">
-                                         <a href="https://www.upwork.com/freelancers/~0142573914a4269a10" target="_blank" rel="noopener noreferrer" ><li className="text-center mb-8 text-3xl sm:text-5xl mx-auto font-sans italic text-aqua underline "><p>Contact Me Here</p></li></a>
+                                         <a href="https://www.freelancer.com/u/x6luemah" target="_blank" rel="noopener noreferrer" ><li className="text-center mb-8 text-3xl sm:text-5xl mx-auto font-sans italic text-aqua underline "><p>Contact Me Here</p></li></a>
                                       
                                         
                                     </ul>
